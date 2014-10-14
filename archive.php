@@ -9,6 +9,8 @@
 
 get_header(); ?>
 
+<div class="main-content-inner col-sm-12">
+
 	<?php // add the class "panel" below here to wrap the content-padder in Bootstrap style ;) ?>	
 	<div class="content-padder">
 		

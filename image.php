@@ -6,7 +6,9 @@
  */
 
 get_header(); ?>
-	
+
+<div class="main-content-inner col-sm-12">
+
 	<?php while ( have_posts() ) : the_post(); ?>
 
 		<?php 
